@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{504F11D1-2B6E-6A25-3812-8612B97E11C6}|Assembly-CSharp.csproj|c:\\unityprojects\\m4-prog\\scoren en munten\\assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504F11D1-2B6E-6A25-3812-8612B97E11C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerScore.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\Assets\\Scripts\\PlayerScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScore.cs",
+              "ToolTip": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\Assets\\Scripts\\PlayerScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:42:25.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
