@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 public class PlayerScore : MonoBehaviour
 {
-    private int score;
-    private List<int> coins = new List<int>();
+    public int score;
+    public List<int> coins = new List<int>();
 
     void Start()
     {
@@ -32,6 +32,7 @@ public class PlayerScore : MonoBehaviour
     {
         coins.Add(coinValue);
         score += coinValue;
-        Debug.Log($"Je hebt een munt van {coinValue} punten gepakt! Totale score: {score}");
+        Debug.Log("Je hebt een munt gepakt van waarde: " + coinValue + ". Totale score: " + score);
+        Debug.Log("Aantal munten: " + coins.Count);
     }
 }
