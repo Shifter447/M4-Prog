@@ -9,7 +9,7 @@
 
 # Bewegende Speler
 
-### Ik heb een speler gemaak waarbij je heen en weer kan bewgen met 
+### Ik heb een speler gemaak waarbij je heen en weer kan bewegen met 
 
 [link](/Assets/Scripts/PlayerControl.cs)
 
