@@ -5,3 +5,12 @@
 [link](/Assets/Scripts/PlayerScore.cs)
 
 ![gif](/gif/scoren%20en%20munten.gif)
+
+
+# Bewegende Speler
+
+### Ik heb een speler gemaak waarbij je heen en weer kan bewgen met 
+
+[link](/Assets/Scripts/PlayerControl.cs)
+
+![gif](/gif/Bewgende%20speler.gif)
