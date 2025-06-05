@@ -14,3 +14,12 @@
 [link](/Assets/Scripts/PlayerControl.cs)
 
 ![gif](/gif/Bewgende%20speler.gif)
+
+
+# Bewegingen, colliders, scoren en timers
+
+### Ik heb een bewgende speler dier door een klein level heen  kan bewegen om munten te verzamelen binnen een bepaalde tijd. Voor elke munt krijgt de speler 10 punten. Speler kan niet door de muren heen bewegen.
+
+[link](/Assets/Scripts/GameManager.cs)
+
+![gif](/gif/Les3.gif)

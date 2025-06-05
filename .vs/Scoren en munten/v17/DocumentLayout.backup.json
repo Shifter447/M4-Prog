@@ -3,7 +3,20 @@
   "WorkspaceRootPath": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{504F11D1-2B6E-6A25-3812-8612B97E11C6}|Assembly-CSharp.csproj|c:\\unityprojects\\m4-prog\\scoren en munten\\assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\M4-bo\\mythe\\Assets\\UniversalRenderPipelineGlobalSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\M4-bo\\mythe\\Packages\\packages-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tbesd\\Downloads\\PlayerMovementAdvanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504F11D1-2B6E-6A25-3812-8612B97E11C6}|Assembly-CSharp.csproj|C:\\UnityProjects\\M4-prog\\Scoren en munten\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504F11D1-2B6E-6A25-3812-8612B97E11C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504F11D1-2B6E-6A25-3812-8612B97E11C6}|Assembly-CSharp.csproj|C:\\UnityProjects\\M4-prog\\Scoren en munten\\assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{504F11D1-2B6E-6A25-3812-8612B97E11C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +32,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UniversalRenderPipelineGlobalSettings.asset",
+              "DocumentMoniker": "C:\\UnityProjects\\M4-bo\\mythe\\Assets\\UniversalRenderPipelineGlobalSettings.asset",
+              "RelativeDocumentMoniker": "..\\..\\M4-bo\\mythe\\Assets\\UniversalRenderPipelineGlobalSettings.asset",
+              "ToolTip": "C:\\UnityProjects\\M4-bo\\mythe\\Assets\\UniversalRenderPipelineGlobalSettings.asset",
+              "RelativeToolTip": "..\\..\\M4-bo\\mythe\\Assets\\UniversalRenderPipelineGlobalSettings.asset",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAkwFsBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T11:06:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages-lock.json",
+              "DocumentMoniker": "C:\\UnityProjects\\M4-bo\\mythe\\Packages\\packages-lock.json",
+              "RelativeDocumentMoniker": "..\\..\\M4-bo\\mythe\\Packages\\packages-lock.json",
+              "ToolTip": "C:\\UnityProjects\\M4-bo\\mythe\\Packages\\packages-lock.json",
+              "RelativeToolTip": "..\\..\\M4-bo\\mythe\\Packages\\packages-lock.json",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T08:42:54.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovementAdvanced.cs",
+              "DocumentMoniker": "C:\\Users\\tbesd\\Downloads\\PlayerMovementAdvanced.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\tbesd\\Downloads\\PlayerMovementAdvanced.cs",
+              "ToolTip": "C:\\Users\\tbesd\\Downloads\\PlayerMovementAdvanced.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\tbesd\\Downloads\\PlayerMovementAdvanced.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:07:17.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:31:07.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerScore.cs",
               "DocumentMoniker": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\Assets\\Scripts\\PlayerScore.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScore.cs",
               "ToolTip": "C:\\UnityProjects\\M4-prog\\Scoren en munten\\Assets\\Scripts\\PlayerScore.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerScore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:42:25.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T12:42:25.729Z"
             }
           ]
         }
